@@ -1,6 +1,6 @@
 {
   "name": "@goldix.org/graphql",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "GraphQL transport for Controller/Action case",
   "main": "index.js",
   "directories": {
